@@ -1,1 +1,1 @@
-This repository will code snippets of various coding competitions.
+This repository will contain code snippets of various coding competitions.
